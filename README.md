@@ -14,6 +14,8 @@ Komut Gönderimi: Otomasyon aktifken, F11 tuşu ile konsol açılır, belirlenen
 
 Bilgilendirme: Otomasyon başlatıldığında, kullanıcıya yeni bir manga oluşturmak için programı yeniden başlatması gerektiği bildirilir.
 ÖRNEK:VİDEO https://streamable.com/0dvo5c
+
+
 ⚙️ Gereksinimler
 Python 3.x
 
