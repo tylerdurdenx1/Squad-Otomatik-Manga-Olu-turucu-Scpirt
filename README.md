@@ -22,7 +22,7 @@ keyboard ve pyperclip kütüphaneleri
 Oyun içi konsolun F11 tuşuna atanmış olması
 
 🚀 Kullanım
-Betik çalıştırıldığında, konsol tuşunun F12 olarak ayarlanması gerektiği bildirilecektir.
+Betik çalıştırıldığında, konsol tuşunun F11 olarak ayarlanması gerektiği bildirilecektir.
 
 İstenilen manga adını girin.
 
