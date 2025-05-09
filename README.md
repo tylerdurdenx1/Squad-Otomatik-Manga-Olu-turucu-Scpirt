@@ -3,6 +3,8 @@ Squad Otomatik Manga Açma Scpirti
 
 Merhabalar Scpirti Kullanmak İçin  Keyboard ve Pyperclip Gibi Python Kütüphanelerine İhtiyacınız Var Onları Kurdukdan Sonra Rahatça Kullana Bilirsiniz Açık Kaynak Kodlu Paylaşıyorum  İstediğiniz Kadar Kullana Bilirsiniz Yapamayan Olursa  İLETİŞİM:DC:tylerrdurrden 
 
+ÖRNEK:VİDEO https://streamable.com/0dvo5c
+
 🎯 Özellikler
 Konsol Tuşu Ayarı: Oyun içi konsolun F11 tuşuna atanması gerek
 
@@ -13,7 +15,7 @@ Otomasyon Kontrolü: F5 tuşu ile otomasyon başlatılıp durdurulabilir.
 Komut Gönderimi: Otomasyon aktifken, F11 tuşu ile konsol açılır, belirlenen komut yapıştırılır ve Enter tuşuna basılır.
 
 Bilgilendirme: Otomasyon başlatıldığında, kullanıcıya yeni bir manga oluşturmak için programı yeniden başlatması gerektiği bildirilir.
-ÖRNEK:VİDEO https://streamable.com/0dvo5c
+
 
 
 ⚙️ Gereksinimler
