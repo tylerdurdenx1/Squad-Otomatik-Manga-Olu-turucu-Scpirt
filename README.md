@@ -1,7 +1,7 @@
 # Squad-Otomatik-Manga-Olu-turucu-Scpirt
 Squad Otomatik Manga Açma Scpirti 
 
-Merhabalar Scpirti Kullanmak İçin  Keyboard ve Pyperclip Gibi Python Kütüphanelerine İhtiyacınız Var Onları Kurdukdan Sonra Rahatça Kullana Bilirsiniz Açık Kaynak Kodlu Paylaşıyorum  İstediğiniz Kadar Kullana Bilirsiniz Yapmayan Olursa  İLETİŞİM:DC:tylerrdurrden 
+Merhabalar Scpirti Kullanmak İçin  Keyboard ve Pyperclip Gibi Python Kütüphanelerine İhtiyacınız Var Onları Kurdukdan Sonra Rahatça Kullana Bilirsiniz Açık Kaynak Kodlu Paylaşıyorum  İstediğiniz Kadar Kullana Bilirsiniz Yapamayan Olursa  İLETİŞİM:DC:tylerrdurrden 
 
 🎯 Özellikler
 Konsol Tuşu Ayarı: Oyun içi konsolun F11 tuşuna atanması gerek
